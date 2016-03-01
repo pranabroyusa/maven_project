@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2016-02-22T02:10:22Z" finished-at="2016-02-22T02:10:22Z">
+  <suite name="Suite" duration-ms="33" started-at="2016-02-29T07:26:21Z" finished-at="2016-02-29T07:26:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2016-02-22T02:10:22Z" finished-at="2016-02-22T02:10:22Z">
+    <test name="Test" duration-ms="33" started-at="2016-02-29T07:26:21Z" finished-at="2016-02-29T07:26:21Z">
       <class name="roy.pranab.Open_Browser">
-        <test-method status="PASS" signature="m1Test()[pri:0, instance:roy.pranab.Open_Browser@18e8568]" name="m1Test" duration-ms="16" started-at="2016-02-21T18:10:22Z" finished-at="2016-02-21T18:10:22Z">
+        <test-method status="PASS" signature="m1Test()[pri:0, instance:roy.pranab.Open_Browser@18e8568]" name="m1Test" duration-ms="15" started-at="2016-02-28T23:26:21Z" finished-at="2016-02-28T23:26:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1Test -->
       </class> <!-- roy.pranab.Open_Browser -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
