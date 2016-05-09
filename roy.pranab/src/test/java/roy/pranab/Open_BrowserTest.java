@@ -7,6 +7,7 @@ public class Open_BrowserTest {
 	public void m1Test()
 	{
 		System.out.println("This is first maven Test");
+		System.out.println("This is second maven Test");
 	}
 
 }
